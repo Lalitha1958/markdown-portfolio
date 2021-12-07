@@ -3,4 +3,5 @@ _This will be in Italics_
 __This will be in Bold__
 **This will also be in Bold**
 _You **can** mix both _Italics_ and **Bold**_
-__HELLO THERE HOW ARE YOU? _HAVE A NICE DAY_ __
+__HELLO THERE HOW ARE YOU?__ 
+_HAVE A NICE DAY_
